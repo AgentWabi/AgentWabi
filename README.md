@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est TonNom
+# 👋 Salut, moi c'est Lucas
 
 💻 Développeur passionné par le développement web, les nouvelles technologies et la création de projets innovants.
 
@@ -42,19 +42,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
-## 📊 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub\&layout=compact\&theme=tokyonight)
-
-## 📫 Me contacter
-
-* Discord : `TonPseudo`
-* Email : `tonemail@example.com`
-* Portfolio : `https://ton-site.com`
-
----
 
 ⭐ N'hésite pas à explorer mes projets et à laisser une étoile si l'un d'eux te plaît !
 
